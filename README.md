@@ -2,6 +2,7 @@
 
 A spreadsheet application made with JavaScript using the functional programming paradigm
 
+[Demo link](https://spreasheet-app.netlify.app/)
 
 ![Spreadsheet demo screenshot](<Screenshot 2024-01-23 at 11.53.57.png>)
 
